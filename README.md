@@ -8,7 +8,7 @@ The GuildAudits bootcamp assessment test will assess and establish individualsâ€
 
 Please follow the processes below to carry out the task and submission correctly.
 
-- Do Not Clone this Repo or Fork it.
+- **Do Not Clone this Repo or Fork it**.
 - Create a Private Repository and name it guild-audit-test
 - In your terminal, add this repo as a submodule.
 
@@ -19,3 +19,13 @@ git submodule install https://github.com/GuildAudits/Cohort-2-test
 - Create a new folder called Solution and add your solutions there.
 - **Do not commit changes to Cohort-2-test.**
 - If you need to, Make sure you move all changes to Solutions before commiting.
+- for Task 2, Test these commands.
+
+  ```sh
+  cd Cohort-2-test/Task\ 2
+  forge b
+  forge t
+  ```
+
+- Make sure your repo is private
+- Add davidpius95, jaydhales, DevPelz and josh4324 as a contributor to this repo so we would have access to examine your submission.
